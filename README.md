@@ -33,7 +33,7 @@ Projeto em grupo desenvolvido com foco em gerenciamento de pedidos.
 - Implementação de funcionalidades X
 - Correções e melhorias
 
-🔗 Link do projeto: LINK_AQUI
+🔗 Link do projeto: https://github.com/carlosscorreia/TCP_Senai_ProgWeb 
 
 --- 🚛 ECOLL TRUCK ( em andamento )
 
