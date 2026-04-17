@@ -1,60 +1,47 @@
-👩‍💻  <h1> BEATRIZ </h1>
+<div align="center">
+  <h1>👩‍💻 BEATRIZ </h1>
 
-🚀 Desenvolvedora Front-end
-💻 Experiência com Back-end e construção de APIs
+  <p>
+    <strong>🚀 Front-end Developer</strong><br>
+    🔗 Integro com Back-end e APIs
+  </p>
+</div>
 
----
+<br>
 
-🧠 Sobre mim
+<h2>🧠 Sobre mim</h2>
+<p>
+  Desenvolvedora focada em criar interfaces modernas, organizadas e funcionais.  
+  Também atuo no back-end construindo APIs e integrando sistemas.
+</p>
 
-Sou desenvolvedora focada em back-end, criando sistemas funcionais e organizados.
-Curto transformar ideias em soluções práticas e bem estruturadas.
+<h2>⚙️ Tecnologias</h2>
+<p>
+  💻 JavaScript <br>
+  🎨 HTML & CSS <br>
+  ⚛️ Front-end <br>
+  ⚙️ Node.js <br>
+  🔗 APIs <br>
+  🗄️ Supabase
+</p>
 
----
+<h2>🔥 Projetos</h2>
 
-⚙️ Tecnologias
+<h3>🚛 ECOLL TRUCK</h3>
+<p>
+  Sistema de controle de coleta com integração de balança.<br>
+  🔗 <a href="LINK_AQUI">Ver projeto</a>
+</p>
 
-* JavaScript
-* C++
-* Java
-* HTML & CSS
-* Supabase
+<h3>🍔 Sistema de Lanchonete</h3>
+<p>
+  Projeto em grupo para gerenciamento de pedidos.<br>
+  👩‍💻 Atuei no desenvolvimento e melhorias do sistema.<br>
+  🔗 <a href="LINK_AQUI">Ver projeto</a>
+</p>
 
+<br>
 
----
-
- 🔥 Projetos em destaque
-
---- 🍔 Sistema de Lanchonete
-Projeto em grupo desenvolvido com foco em gerenciamento de pedidos.
-
-  👩‍💻 Minha participação:
-- Desenvolvimento da interface
-- Implementação de funcionalidades X
-- Correções e melhorias
-
-🔗 Link do projeto: https://github.com/carlosscorreia/TCP_Senai_ProgWeb 
-
---- 🚛 ECOLL TRUCK ( em andamento )
-
-Sistema de controle de coleta com integração de balança.
-➡️ Monitoramento de peso, gestão e organização de dados
-
---- 📦 Sistema CRUD
-
-Aplicação completa com cadastro, edição e exclusão de dados.
-➡️ Estrutura limpa e funcional
-
---- 🔐 Sistema de Login
-
-Autenticação de usuários com validação e segurança básica
-
---- 📫 Contato
-
-📧 Email: beatirz.s.goncalves01@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/beatriz0110/
-
----
-
-✨ Sempre evoluindo e construindo projetos melhores
-
+<div align="center">
+  <p>✨ Sempre evoluindo e construindo projetos melhores</p>
+</div>
