@@ -1,16 +1,60 @@
-## Hi there 👋
+👩‍💻 BEATRIZ
 
-<!--
-**Bia206/Bia206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedora Front-end
+💻 Experiência com Back-end e construção de APIs
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Sobre mim
+
+Sou desenvolvedora focada em back-end, criando sistemas funcionais e organizados.
+Curto transformar ideias em soluções práticas e bem estruturadas.
+
+---
+
+⚙️ Tecnologias
+
+* JavaScript
+* C++
+* Java
+* HTML & CSS
+* Supabase
+
+
+---
+
+ 🔥 Projetos em destaque
+
+--- 🍔 Sistema de Lanchonete
+Projeto em grupo desenvolvido com foco em gerenciamento de pedidos.
+
+  👩‍💻 Minha participação:
+- Desenvolvimento da interface
+- Implementação de funcionalidades X
+- Correções e melhorias
+
+🔗 Link do projeto: LINK_AQUI
+
+--- 🚛 ECOLL TRUCK ( em andamento )
+
+Sistema de controle de coleta com integração de balança.
+➡️ Monitoramento de peso, gestão e organização de dados
+
+--- 📦 Sistema CRUD
+
+Aplicação completa com cadastro, edição e exclusão de dados.
+➡️ Estrutura limpa e funcional
+
+--- 🔐 Sistema de Login
+
+Autenticação de usuários com validação e segurança básica
+
+--- 📫 Contato
+
+📧 Email: beatirz.s.goncalves01@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/beatriz0110/
+
+---
+
+✨ Sempre evoluindo e construindo projetos melhores
+
