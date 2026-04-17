@@ -30,14 +30,14 @@
 <h3>🚛 ECOLL TRUCK</h3>
 <p>
   Sistema de controle de coleta com integração de balança.<br>
-  🔗 <a href="LINK_AQUI">Ver projeto</a>
+  🔗 <H4> Em andamento...</H4>
 </p>
 
 <h3>🍔 Sistema de Lanchonete</h3>
 <p>
   Projeto em grupo para gerenciamento de pedidos.<br>
   👩‍💻 Atuei no desenvolvimento e melhorias do sistema.<br>
-  🔗 <a href="LINK_AQUI">Ver projeto</a>
+  🔗 <a href="https://github.com/carlosscorreia/TCP_Senai_ProgWeb">Ver projeto</a>
 </p>
 
 <br>
