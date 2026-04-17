@@ -30,7 +30,7 @@
 <h3>🚛 ECOLL TRUCK</h3>
 <p>
   Sistema de controle de coleta com integração de balança.<br>
-  🔗 <H4> Em andamento...</H4>
+ <h4>🔗 Em andamento...</h4>
 </p>
 
 <h3>🍔 Sistema de Lanchonete</h3>
