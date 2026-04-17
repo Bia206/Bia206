@@ -1,4 +1,4 @@
-👩‍💻 BEATRIZ
+👩‍💻  <h1> BEATRIZ </h1>
 
 🚀 Desenvolvedora Front-end
 💻 Experiência com Back-end e construção de APIs
