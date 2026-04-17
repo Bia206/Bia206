@@ -18,11 +18,13 @@
 <h2>⚙️ Tecnologias</h2>
 <p>
   💻 JavaScript <br>
+  💻 Java <br>
+  💻 C++ <br>
   🎨 HTML & CSS <br>
-  ⚛️ Front-end <br>
   ⚙️ Node.js <br>
   🔗 APIs <br>
-  🗄️ Supabase
+  🗄️ Supabase <br>
+  🗄️ Mysql
 </p>
 
 <h2>🔥 Projetos</h2>
